@@ -74,6 +74,32 @@ span{
 
 }
 
+width: 950px;
+height: 1050px;
+margin:0px ;
+background-color: agua;
+background:-webkit-linear-gradient(top,red,pink,blue,agua,green,yellow,orange,magenta,black,cyan);
+}
+label{
+margin-left: 15px;
+color: white;
+}
+input{
+margin-left: 15px;
+height: 30px;
+background-color: pink;
+border-radius: 5px;
+}
+
+form{
+  border: 2px solid black;
+width: 948px;
+height: 1048px;
+margin: 0px;
+background-color: aqua;
+background:-webkit-linear-gradient(top,red,pink,blue,aqua,green,yellow,orange);
+}
+
 
 
 
